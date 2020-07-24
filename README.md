@@ -1,8 +1,5 @@
 # whois
-Whois tool created in python 
-  %installation 
-apt install git 
-git clone https://github.com/rohitadhikari088/whois
-%usages 
-This tool is use to see whois details 
-
+Who is tool is a simple tool to get some details of domain owner if s/he not privated their details
+<h2> Installation </h2>
+Git clone https://github.com/rohitadhikari0/whois
+<h2> screenshot </h2>
