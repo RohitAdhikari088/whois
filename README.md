@@ -1,9 +1,8 @@
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/rohitadhikari0/whois?style=for-the-badge)
+![GitHub repo size](https://img.shields.io/github/repo-size/rohitadhikari0/whois?style=for-the-badge)
 # whois
 Who is tool is a simple tool to get some details of domain owner if s/he not privated their details
-# Update
-----
-![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/rohitadhikari0/whois?style=for-the-badge)
-----
+
 <h2> Installation </h2>
 Git clone https://github.com/rohitadhikari0/whois
 <h2> screenshot </h2>
