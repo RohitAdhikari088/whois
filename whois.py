@@ -1,15 +1,21 @@
 #1/usr/bin/python2
+import time
+time.sleep(5)
+print("\033[93m")
+print("This Tool Is Only For Educational Purpose If You Use Thi>
+time.sleep(5)
 import os
 import sys
 os.system("clear")
-os.system("apt install figlet -y")
+print("Sucessfully Imported System And Os")
+os.system("clear")
+print("Let's Do Something Awesomw")
+os.system("clear")
+print("Did You Know")
+print("We are working To Translate This Tool On All Languages")
+os.system("clear")
+time.sleep(5)
 
 
-print("\033[93m ")
-os.system ("figlet script written BY Rohit")
-print("special thanks to Awesome Tech")
-
-
-
-url = raw_input("[+]enter website (without subdomain and http): ")
+url = raw_input("[+]enter website (without subdomain and http):>
 os.system("whois %s" % (url))
