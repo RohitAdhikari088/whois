@@ -2,7 +2,7 @@
 import time
 time.sleep(5)
 print("\033[93m")
-print("This Tool Is Only For Educational Purpose If You Use Thi>
+print("This Tool Is Only For Educational Purpose If You Use This tool for Any other purpose expect Education then you are responsible for that")
 time.sleep(5)
 import os
 import sys
