@@ -17,5 +17,5 @@ os.system("clear")
 time.sleep(5)
 
 
-url = raw_input("[+]enter website (without subdomain and http):>
+url = raw_input("[+]enter website (without subdomain and http):
 os.system("whois %s" % (url))
